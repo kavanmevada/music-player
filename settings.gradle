@@ -1,0 +1,2 @@
+include ':app'//, ':elementx-playback'
+rootProject.name='music-player'
