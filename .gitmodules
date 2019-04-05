@@ -1,0 +1,3 @@
+[submodule "elementx-playback"]
+	path = elementx-playback
+	url = https://github.com/kavanmevada/elementx-playback.git
