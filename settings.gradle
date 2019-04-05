@@ -1,2 +1,2 @@
-include ':app'//, ':elementx-playback'
+include ':app', ':elementx-playback'
 rootProject.name='music-player'
